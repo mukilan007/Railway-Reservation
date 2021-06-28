@@ -1,0 +1,10 @@
+splash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+login = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+register = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+billing = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+addTrain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+admin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+delectTrain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+adminLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+reservation = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+trainDetail = 0, 0, 0, 0, C, 0, 0, 0, 0, C
